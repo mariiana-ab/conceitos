@@ -9,3 +9,14 @@ jurimeria:  a aplicação de métodos quantitativos, especialmente a estatístic
 https://ultimatum.com.br/jurimetria-o-que-e-e-qual-a-aplicabilidade-nos-escritorios-e-departamentos-juridicos/
 nuvem: termo utilizado para descrever uma rede global de servidores, cada um com uma função única.
 https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-the-cloud/
+
+Inteligência artificial, ou IA: é uma tecnologia que permite que computadores e máquinas simulem a capacidade de resolução de problemas e a inteligência humana.
+https://www.ibm.com/br-pt/topics/artificial-intelligence
+Zero Rating: é uma prática realizada pelas operadoras e algumas empresas de tecnologia que consiste em permitir o acesso de forma "gratuita", ou sem cobrar o tráfego de dados móveis a alguns serviços online, como apps de rede sociais e mensagens.
+https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
+memória: é/são componentes eletrônicos e, portanto, é parte do hardware de um dispositivo, que tem como função armazenar dados diversos, em caráter temporário ou permanente.
+https://www.hostmidia.com.br/blog/memoria-o-que-e-para-que-serve/
+servidor: é um computador ou software mais potente que um desktop comum.
+https://coodesh.com/blog/dicionario/o-que-e-um-servidor/
+dados: são expressões gerais que descrevem características das entidades sobre as quais operam os algoritmos.
+https://conceito.de/dados
